@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    Flash Card
+  </title>
+  <style>
+  div{
+    padding:2px;
+    font-family:Arial,sans-serif;
+  }
+.one{
+  margin-left:15px;
+  box-shadow: 2px 1px 2px black;
+  width:310px;
+  background:white;
+  border-radius:10px;
+  height:450px;
+  outline:1px solid black;
+}
+div>img{
+  margin-left:4px;
+  margin:4px;
+  width:300px;
+  height:200px;
+  border-radius:10px;
+  margin-bottom:10px;
+}
+.two,.three{
+  box-shadow: 2px 1px 2px black;
+  margin-left:10px;
+  display:inline-block;
+  padding:4px;
+  width:60px;
+  text-align:center;
+  background:white;
+  border-radius:10px;
+}
+.bye{
+  text-align:center;
+}
+.bye button{
+    padding:10px 20px ;
+    border: none;
+    background: #e6f0ff;
+    color: #3b82f6;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    
+}
+  </style>
+</head>
+<body>
+  <div class="one">
+    <img src="image.jpeg" alt="image">
+    <div class="two">Nature</div>
+   <div class="three">lake</div>
+  <div class="text">
+    <h2 style="margin-left:10px;margin-bottom:5px;">Lago di Braies</h2>
+    <p style="margin-left:10px; margin-top:4px;margin-bottom:20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Consectetur sodales morbidignissim sed diam pharetra vitae ipsum odim.</p>
+      <div class="bye">
+     <button>Read More</button>
+     </div>
+  </div>
+  </div>
+</body>
+</html>
