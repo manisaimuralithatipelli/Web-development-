@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Website</title>
+  <style>
+  *{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+  }  
+ body{
+   background:var(--card-bg);
+ }
+  :root{
+    --top-bar: #ff9df5;
+    --green-bg: #0b6b0b;
+    --left-box: #ff9c9c;
+    --right-box: #3b82f6;
+    --card-bg: #111;
+    --card-border: #444;
+    --bottom-bar: #eaeaff;
+  }
+  body{
+    background-color:var(--card-bg);
+  }
+  .nav{
+    background-color:var(--top-bar);
+    margin-left:5px;
+    width:345px;
+    height:40px;
+    border-radius:10px;
+    color:var(--card-bg);
+    display:inline-block;
+    padding:10px;
+    margin-bottom:10px;
+  }
+  .nav span{
+    padding:15px;
+  }
+  .nav span:hover{
+    background-color:yellow;
+    border-radius:10px;
+    color:red;
+  }
+  .container{
+    background:var(--green-bg);
+    width:350px;
+    padding:20px;
+    display:flex;
+    gap:40px;
+  }
+  .box1{
+    background:var(--left-box);
+    height:220px;
+    width:220px;
+  }
+  .box2{
+    background:var(--right-box);
+    height:220px;
+    width:220px;
+  }
+  main{
+    background-color:black;
+    height:300px;
+    padding:35px;
+  }
+  main .button{ 
+    border:2px solid var(--card-border);
+    border-radius:20px;
+    padding:20px;
+    color:var(--bottom-bar);
+    text-align:center;
+    width:280px;
+    background:var(--card-bg);
+  }
+  footer{
+    background:var(--bottom-bar);
+    width:350px;
+    height:60px;
+    position:relative;
+  }
+  footer .circle{
+    width:40px;
+    height:40px;
+    background:orange;
+    border-radius:50%;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+  }
+  </style>
+</head>
+<body>
+  <div class="nav">
+    <span>Home</span>
+    <span>Service</span>
+    <span>About</span>
+    <span>Contact</span>
+  </div>
+  <div class="container">
+    <div class="box1"></div>
+    <div class="box2"></div>
+  </div>
+  <main>
+    <div class="button">
+      Welcome to Sigma Web Development Express
+    </div>
+  </main>
+  <footer>
+    <div class="circle"></div>
+  </footer>
+</body>
+</html>
