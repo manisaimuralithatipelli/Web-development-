@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WEATHER APP</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<video autoplay muted loop id="rainVideo" class="bg-video">
+  <source src="videos/rain.mp4" type="video/mp4">
+</video>
+
+<video autoplay muted loop id="cloudyvideo" class="bg-video">
+  <source src="videos/cloudy.mp4" type="video/mp4">
+</video>
+
+<video autoplay muted loop id="snowvideo" class="bg-video">
+  <source src="videos/snow.mp4" type="video/mp4">
+</video>
+
+<video autoplay muted loop id="hazevideo" class="bg-video">
+  <source src="videos/haze.mp4" type="video/mp4">
+</video>
+
+<video autoplay muted loop id="thunderstormvideo" class="bg-video">
+  <source src="videos/Thunderstorm.mp4" type="video/mp4">
+</video>
+
+<video autoplay muted loop id="clearvideo" class="bg-video">
+  <source src="videos/clear.mp4" type="video/mp4">
+</video>
+
+<div id="area">
+  <b>ENTER CITY NAME:</b>
+  <input type="text" id="city" placeholder="🔍 Enter the name of city">
+  <button id="btn"><b>SEARCH</b></button>
+</div>
+<div class="container">
+  <div class="weather-box">
+
+    <div id="cityname"></div>
+    <div id="country"></div>
+    <div id="temp"></div>
+
+    <div class="weather-main">
+      
+      <div class="img-bg">
+        <img id="icon">
+      </div>
+      <div class="weather-text">
+        <div id="condition"></div>
+        <div id="feels"></div>
+      </div>
+    </div>
+    <div class="info-box">
+      <img src="icons/humidity.svg" class="icon">
+      <div class="label">HUMIDITY</div>
+      <div class="value" id="humidityValue"></div>
+    </div>
+    <div class="info-box">
+      <img src="icons/wind.svg" class="icon">
+      <div class="label">WIND</div>
+      <div class="value" id="windValue"></div>
+    </div>
+    <div class="info-box">
+      <img src="icons/sunrise.svg" class="icon">
+      <div class="label">SUNRISE</div>
+      <div class="value" id="sunriseValue"></div>
+    </div>
+    <div class="info-box">
+      <img src="icons/sunset.svg" class="icon">
+      <div class="label">SUNSET</div>
+      <div class="value" id="sunsetValue"></div>
+    </div>
+  </div>
+  <div id="error"></div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
