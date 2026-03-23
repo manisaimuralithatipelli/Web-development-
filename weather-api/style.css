@@ -152,9 +152,9 @@ body {
 }
 
 @media (max-width: 600px) {
-  body {
-    height: auto;
-    min-height: 100vh;
-    justify-content: flex-start;
+  #city,
+  .container {
+    width: 100%;
+    max-width: 600px;
   }
 }
