@@ -1,4 +1,7 @@
-# Web Development Playground
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Web%20Development%20Playground&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript%20%C2%B7%20Node.js&descAlignY=58&descSize=18" width="100%"/>
+
 
 ![Top Language](https://img.shields.io/github/languages/top/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=2563eb)
 ![Repo Size](https://img.shields.io/github/repo-size/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=0f172a)
