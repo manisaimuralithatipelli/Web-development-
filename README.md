@@ -1,50 +1,43 @@
+<div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manisaimuralithatipelli1@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Web%20Development%20Playground&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript%20%C2%B7%20Node.js&descAlignY=58&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manisaimuralithatipelli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manisaimuralithatipelli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manisaimuralithatipelli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Language](https://img.shields.io/github/languages/top/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=2563eb)](https://github.com/manisaimuralithatipelli/Web-development-)
+[![Repo Size](https://img.shields.io/github/repo-size/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=0f172a)](https://github.com/manisaimuralithatipelli/Web-development-)
+[![Stars](https://img.shields.io/github/stars/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=facc15)](https://github.com/manisaimuralithatipelli/Web-development-/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=16a34a)](https://github.com/manisaimuralithatipelli/Web-development-/commits/main)
 
-# 🌐 Web Development Playground
+</div>
 
-A collection of interactive front-end projects and mini full-stack apps built with HTML, CSS & JavaScript.
+## 🛠️ Tech Stack
 
-![Top Language](https://img.shields.io/github/languages/top/manisaimuralithatipelli/Web-development-?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/manisaimuralithatipelli/Web-development-?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=yellow)
-![Last Commit](https://img.shields.io/github/last-commit/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=blue)
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
 ## 📖 About
 
-This repo is a growing playground of front-end and full-stack mini projects — built while learning and experimenting with **HTML, CSS, JavaScript, Node.js, and Express**. Each folder/file is a self-contained project you can open and run independently.
+A curated collection of front-end projects and a full-stack mini API, built while learning **HTML, CSS, JavaScript, Node.js, and Express**. Each project below is self-contained — clone the repo and run any of them independently.
 
-## 📂 Projects in this Repo
+## 📂 Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
-| 🎬 [`netflix-clone`](./netflix-clone) | UI clone of Netflix's landing/browse page | HTML, CSS, JS |
-| 🎓 [`student-api`](./student-api) | REST API for managing student records | Node.js, Express |
-| ⛅ [`weather-api`](./weather-api) | Weather data fetching app/API | Node.js, Express |
-| 🖥️ [`Project-1.html`](./Project-1.html) | Interactive front-end project | HTML, CSS, JS |
-| 🖥️ [`Project-2.html`](./Project-2.html) | Interactive front-end project | HTML, CSS, JS |
-| 🖥️ [`Project-3.html`](./Project-3.html) | Interactive front-end project | HTML, CSS, JS |
-| 🖥️ [`Project-4.html`](./Project-4.html) | Interactive front-end project | HTML, CSS, JS |
-| 🖥️ [`Project-5.html`](./Project-5.html) | Interactive front-end project | HTML, CSS, JS |
-| 🖥️ [`Project-6.html`](./Project-6.html) | Interactive front-end project | HTML, CSS, JS |
+| 🎬 [`netflix-clone`](./netflix-clone) | Front-end clone of Netflix's landing/browse UI | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🎓 [`student-api`](./student-api) | REST API for managing student records | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
+| ⛅ [`weather-api`](./weather-api) | Weather app fetching live data via OpenWeather API | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🖥️ [`Project-1.html`](./Project-1.html) | Interactive front-end mini project | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🖥️ [`Project-2.html`](./Project-2.html) | Interactive front-end mini project | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🖥️ [`Project-3.html`](./Project-3.html) | Interactive front-end mini project | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🖥️ [`Project-4.html`](./Project-4.html) | Interactive front-end mini project | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🖥️ [`Project-5.html`](./Project-5.html) | Interactive front-end mini project | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🖥️ [`Project-6.html`](./Project-6.html) | Interactive front-end mini project | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
-> ✏️ Descriptions column ni nuvvu actual project details tho update chesukovachu.
+> ✏️ Description column ni actual project functionality tho update chesukovachu anytime.
 
 ## 🚀 Getting Started
 
@@ -53,32 +46,41 @@ git clone https://github.com/manisaimuralithatipelli/Web-development-.git
 cd Web-development-
 ```
 
-- Plain HTML projects: browser lo direct ga `.html` file open cheయు.
-- API projects (`student-api`, `weather-api`):
+**Front-end only projects** (`netflix-clone`, `weather-api`, `Project-1` to `6`)
+Browser lo direct ga corresponding `.html` file open cheయు.
+
+> `weather-api` ki [OpenWeather API](https://openweathermap.org/api) key kavali — nee JS file lo `API_KEY` add cheయు.
+
+**Backend project** (`student-api`)
 ```bash
-cd student-api      # or weather-api
+cd student-api
 npm install
 npm start
 ```
 
 ## 📊 Language Breakdown
 
-![HTML](https://img.shields.io/badge/HTML-53.7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-32.8%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-13.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-53.7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-32.8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-13.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisaimuralithatipelli&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manisaimuralithatipelli&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=manisaimuralithatipelli&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaimuralithatipelli&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%" />
 
-![Streak Stats](https://streak-stats.demolab.com/?user=manisaimuralithatipelli&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=manisaimuralithatipelli&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+
+</div>
 
 ## 🤝 Connect
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manisaimuralithatipelli1@gmail.com)
 
----
+</div>
 
-⭐ If you found this useful, drop a star on the repo!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
