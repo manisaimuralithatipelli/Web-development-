@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Web%20Development%20Playground&fontSize=32&fontColor=ffffff&fontAlignY=42)
+# Web Development Playground
 
 ![Top Language](https://img.shields.io/github/languages/top/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=2563eb)
 ![Repo Size](https://img.shields.io/github/repo-size/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=0f172a)
@@ -63,14 +63,6 @@ npm start
 ![HTML](https://img.shields.io/badge/HTML-53.7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-32.8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-13.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisaimuralithatipelli&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manisaimuralithatipelli&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=manisaimuralithatipelli&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)
 
 ## Connect
 
