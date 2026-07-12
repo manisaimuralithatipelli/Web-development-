@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Web%20Development%20Playground&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20Collection%20of%20Front-End%20%26%20Full-Stack%20Projects&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Web%20Development%20Playground&fontSize=32&fontColor=ffffff&fontAlignY=42)
 
 ![Top Language](https://img.shields.io/github/languages/top/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=2563eb)
 ![Repo Size](https://img.shields.io/github/repo-size/manisaimuralithatipelli/Web-development-?style=for-the-badge&color=0f172a)
@@ -66,11 +66,11 @@ npm start
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisaimuralithatipelli&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisaimuralithatipelli&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manisaimuralithatipelli&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manisaimuralithatipelli&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manisaimuralithatipelli&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=manisaimuralithatipelli&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)
 
 ## Connect
 
