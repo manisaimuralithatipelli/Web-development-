@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL SHORTENER</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>URL SHORTENER</h1>
+
+        <form action="/url" method="POST" class="url-form">
+
+            <label>Enter your URL</label>
+
+            <input
+                type="text"
+                name="url"
+                placeholder="https://example.com"
+                required
+            >
+
+            <button type="submit">SHORTEN URL</button>
+
+        </form>
+
+        <% if (locals.shortId) { %>
+
+            <div class="result">
+                Your Short ID:
+                <strong><%= locals.shortId %></strong>
+            </div>
+
+        <% } %>
+
+
+        <div class="routes-box">
+
+            <h2>Explore More Routes</h2>
+
+            <p class="routes-description">
+                Explore the available routes and features of this URL Shortener.
+            </p>
+
+
+            <div class="route-item">
+
+                <h3>POST /url</h3>
+
+                <p>
+                    Create a new shortened URL.
+                </p>
+
+            </div>
+
+
+            <div class="route-item">
+
+                <h3>GET /url/:id</h3>
+
+                <p>
+                    Redirect to the original URL using the Short ID.
+                </p>
+
+            </div>
+
+
+            <div class="route-item">
+
+                <h3>GET /url/analytics</h3>
+
+                <p>
+                    View analytics of all shortened URLs.
+                </p>
+
+            </div>
+
+            <div class="route-item">
+
+                <h3>GET /url/analytics/:id</h3>
+
+                <p>
+                    View total clicks and visit timestamps for a specific URL.
+                </p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
