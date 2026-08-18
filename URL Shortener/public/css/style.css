@@ -1,0 +1,173 @@
+*{
+   box-sizing:border-box;
+   margin:0;
+   padding:0;
+}
+
+body{
+   font-family:Arial,sans-serif;
+   background:#f4f6f8;
+   color:#222;
+   padding:40px 20px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    background: white;
+    padding: 35px;
+    border-radius: 15px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 32px;
+}
+
+.url-form {
+    max-width: 600px;
+    margin: auto;
+}
+
+.url-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.url-form input {
+    width: 100%;
+    padding: 13px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+}
+
+.url-form input:focus {
+    border-color: #333;
+}
+
+.url-form button {
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+    padding: 13px;
+    border: none;
+    border-radius: 8px;
+    background: #222;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.url-form button:hover {
+    background: #444;
+}
+
+.result {
+    max-width: 600px;
+    margin: 25px auto;
+    padding: 15px;
+    background: #f1f3f5;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.result strong {
+    margin-left: 5px;
+}
+
+/* Explore More Routes */
+
+.routes-box {
+    max-width: 600px;
+    margin: 30px auto 0;
+    padding: 25px;
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+}
+
+.routes-box h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.routes-description {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.route-item {
+    padding: 15px;
+    margin-top: 12px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.route-item h3 {
+    margin-bottom: 6px;
+    font-size: 16px;
+}
+
+.route-item p {
+    color: #666;
+    font-size: 14px;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 20px 10px;
+    }
+
+    .container {
+        padding: 25px 15px;
+    }
+
+    h1 {
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+
+    .url-form {
+        max-width: 100%;
+    }
+
+    .url-form input {
+        font-size: 14px;
+        padding: 12px;
+    }
+
+    .url-form button {
+        font-size: 14px;
+        padding: 12px;
+    }
+
+    .result {
+        max-width: 100%;
+        font-size: 14px;
+    }
+
+    .routes-box {
+        max-width: 100%;
+        padding: 20px 15px;
+    }
+
+    .routes-box h2 {
+        font-size: 22px;
+    }
+
+    .route-item {
+        padding: 13px;
+    }
+}
