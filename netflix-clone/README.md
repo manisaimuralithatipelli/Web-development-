@@ -14,3 +14,6 @@ The main goal of this project is to improve frontend development skills and gain
 
 ### ⚠️ Note
 This is a static project and does not include backend functionality or real streaming features. 
+
+### Deployed Link
+https://manisaimuralithatipelli.github.io/Web-development-/netflix-clone/
