@@ -14,3 +14,6 @@ The main objective of this project is to understand API integration and improve 
 
 ### ⚠️ Note
 This project uses the OpenWeather API for fetching data and is intended for learning purposes only.
+
+### Deployed Link
+https://manisaimuralithatipelli.github.io/Web-development-/weather-api/
