@@ -1,0 +1,141 @@
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Page Background */
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #101114;
+    color: #f4f4f5;
+}
+
+/* Main Quiz Card */
+.quiz-container {
+    width: 100%;
+    max-width: 550px;
+    padding: 35px;
+    background-color: #191a20;
+    border: 1px solid #2b2c35;
+    border-radius: 18px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+/* Heading */
+h1 {
+    margin-bottom: 28px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 750;
+    letter-spacing: -0.8px;
+    color: #f8fafc;
+}
+
+h1::after {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 4px;
+    margin: 12px auto 0;
+    border-radius: 5px;
+    background-color: #8b5cf6;
+}
+
+/* Question */
+#question {
+    margin-bottom: 24px;
+    font-size: 21px;
+    line-height: 1.5;
+    font-weight: 600;
+    color: #e4e4e7;
+}
+
+/* Answer Options */
+#answer-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+#answer-buttons button {
+    width: 100%;
+    padding: 14px 16px;
+    text-align: left;
+    border: 1px solid #353640;
+    border-radius: 10px;
+    background-color: #22232b;
+    color: #e4e4e7;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+#answer-buttons button:hover {
+    background-color: #2d293b;
+    border-color: #8b5cf6;
+}
+
+/* Next Button */
+#nextBtn {
+    display: block;
+    margin: 25px 0 0 auto;
+    padding: 12px 26px;
+    border: none;
+    border-radius: 9px;
+    background-color: #8b5cf6;
+    color: white;
+    font-size: 15px;
+    font-weight: 650;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.2s;
+}
+
+#nextBtn:hover {
+    background-color: #7c3aed;
+    transform: translateY(-1px);
+}
+
+/* Score */
+#score {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #a78bfa;
+}
+
+#msg {
+    margin-top: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.5;
+    color: #38bdf8;
+} 
+
+#question.completed-title {
+    text-align: center;
+}
+
+/* Mobile Responsive */
+@media (max-width: 480px) {
+    .quiz-container {
+        padding: 24px 18px;
+    }
+
+    h1 {
+        font-size: 27px;
+    }
+
+    #question {
+        font-size: 18px;
+    }
+}
